@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_operation">
+    <sys_ws_operation action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_operation_uri/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <http_method>GET</http_method>
+        <name>rest resource1</name>
+        <operation_script><![CDATA[(function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+
+    return "{'result':'success'}";
+
+})(request, response);]]></operation_script>
+        <operation_uri>/api/x_1112165_gcx_te_0/my_custom_rest</operation_uri>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <relative_path>/</relative_path>
+        <request_example/>
+        <requires_acl_authorization>true</requires_acl_authorization>
+        <requires_authentication>true</requires_authentication>
+        <requires_snc_internal_role>true</requires_snc_internal_role>
+        <short_description/>
+        <sys_class_name>sys_ws_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-10 14:28:59</sys_created_on>
+        <sys_id>2987e8c4591131107f44bf088940e484</sys_id>
+        <sys_name>rest resource1</sys_name>
+        <sys_package display_value="GCX Test App" source="x_1112165_gcx_te_0">e0c46fa2973031109b03bcb3f153af63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</sys_scope>
+        <sys_update_name>sys_ws_operation_2987e8c4591131107f44bf088940e484</sys_update_name>
+        <web_service_definition display_value="my custom rest">a15728c4591131107f44bf088940e42b</web_service_definition>
+        <web_service_version/>
+    </sys_ws_operation>
+</record_update>
