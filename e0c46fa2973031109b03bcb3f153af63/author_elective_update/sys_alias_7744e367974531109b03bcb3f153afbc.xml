@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template display_value="DevOps basic auth configuration">f50e9c750ffa2010da1fb1a2ff767eae</configuration_template>
+        <connection_type>http_connection</connection_type>
+        <id>x_1112165_gcx_te_0.DevOps___19700101075533_github</id>
+        <multiple_connections>false</multiple_connections>
+        <name>DevOps-_-19700101075533_github</name>
+        <parent display_value="sn_devops.DevOps_BasicAuth">b59f5cb50ffa2010da1fb1a2ff767e36</parent>
+        <retry_policy display_value="DevOps Custom HTTP Retry Policy">477ca9d907431010807e1ebf6bd3006d</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-09 14:55:34</sys_created_on>
+        <sys_id>7744e367974531109b03bcb3f153afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1112165_gcx_te_0.DevOps___19700101075533_github</sys_name>
+        <sys_package display_value="GCX Test App" source="x_1112165_gcx_te_0">e0c46fa2973031109b03bcb3f153af63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</sys_scope>
+        <sys_update_name>sys_alias_7744e367974531109b03bcb3f153afbc</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-09 14:55:34</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</application>
+        <file_path/>
+        <instance_id>2b63676edbe6d558b847ac44d49619be</instance_id>
+        <instance_name>dev140967</instance_name>
+        <name>sys_alias_7744e367974531109b03bcb3f153afbc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template display_value="DevOps basic auth configuration">f50e9c750ffa2010da1fb1a2ff767eae</configuration_template><connection_type>http_connection</connection_type><id>x_1112165_gcx_te_0.DevOps___19700101075533_github</id><multiple_connections>false</multiple_connections><name>DevOps-_-19700101075533_github</name><parent display_value="sn_devops.DevOps_BasicAuth">b59f5cb50ffa2010da1fb1a2ff767e36</parent><retry_policy display_value="DevOps Custom HTTP Retry Policy">477ca9d907431010807e1ebf6bd3006d</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-09-09 14:55:34</sys_created_on><sys_id>7744e367974531109b03bcb3f153afbc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1112165_gcx_te_0.DevOps___19700101075533_github</sys_name><sys_package display_value="GCX Test App" source="x_1112165_gcx_te_0">e0c46fa2973031109b03bcb3f153af63</sys_package><sys_policy/><sys_scope display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</sys_scope><sys_update_name>sys_alias_7744e367974531109b03bcb3f153afbc</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-09-09 14:55:34</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-526678754</payload_hash>
+        <record_name>x_1112165_gcx_te_0.DevOps___19700101075533_github</record_name>
+        <reverted_from/>
+        <source>b0c46fa2973031109b03bcb3f153af65</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-09 14:55:34</sys_created_on>
+        <sys_id>4854e367974531109b03bcb3f153afbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a7a70e6f00000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-09 14:55:34</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>8054e367f1453110a69340b644cca9bf</update_guid>
+        <update_guid_history>8054e367f1453110a69340b644cca9bf:-526678754</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-09 14:55:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>0854f8b7a2214d2c8143b1869103d790</sys_id>
+        <sys_metadata>7744e367974531109b03bcb3f153afbc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1112165_gcx_te_0.DevOps___19700101075533_github</sys_name>
+        <sys_package display_value="GCX Test App" source="x_1112165_gcx_te_0">e0c46fa2973031109b03bcb3f153af63</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</sys_scope>
+        <sys_scope_delete display_value="">90b57a6c9a2a4c2aa9d1d2002b6c8724</sys_scope_delete>
+        <sys_update_name>sys_alias_7744e367974531109b03bcb3f153afbc</sys_update_name>
+        <sys_update_version display_value="sys_alias_7744e367974531109b03bcb3f153afbc">4854e367974531109b03bcb3f153afbf</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-09 14:55:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

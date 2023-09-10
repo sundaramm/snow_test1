@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter">
+    <sys_ws_query_parameter action="INSERT_OR_UPDATE">
+        <example_value/>
+        <name>accountId</name>
+        <required>false</required>
+        <short_description>sys id of the account</short_description>
+        <sys_class_name>sys_ws_query_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 04:57:21</sys_created_on>
+        <sys_id>4a3b007a97b031109b03bcb3f153af99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>accountId</sys_name>
+        <sys_package display_value="GCX Test App" source="x_1112165_gcx_te_0">e0c46fa2973031109b03bcb3f153af63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</sys_scope>
+        <sys_update_name>sys_ws_query_parameter_4a3b007a97b031109b03bcb3f153af99</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 04:57:21</sys_updated_on>
+        <web_service_definition display_value="gcx_getAccountInfo">325a803a97b031109b03bcb3f153afd1</web_service_definition>
+    </sys_ws_query_parameter>
+</record_update>

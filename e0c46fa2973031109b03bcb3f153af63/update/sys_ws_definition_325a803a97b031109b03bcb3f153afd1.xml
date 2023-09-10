@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition">
+    <sys_ws_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_uri>/api/x_1112165_gcx_te_0/gcx_getaccountinfo</base_uri>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_version>No active default version</default_version>
+        <doc_link/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <is_versioned>false</is_versioned>
+        <name>gcx_getAccountInfo</name>
+        <namespace>x_1112165_gcx_te_0</namespace>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <service_id>gcx_getaccountinfo</service_id>
+        <short_description/>
+        <sys_class_name>sys_ws_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 04:54:08</sys_created_on>
+        <sys_id>325a803a97b031109b03bcb3f153afd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>gcx_getAccountInfo</sys_name>
+        <sys_package display_value="GCX Test App" source="x_1112165_gcx_te_0">e0c46fa2973031109b03bcb3f153af63</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</sys_scope>
+        <sys_update_name>sys_ws_definition_325a803a97b031109b03bcb3f153afd1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 04:54:08</sys_updated_on>
+    </sys_ws_definition>
+</record_update>
