@@ -2,15 +2,29 @@
     <sys_ui_section caption="" section_id="c98bcf6b970131109b03bcb3f153af94" sys_domain="global" table="x_1112165_gcx_te_0_my_table" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>column_1</element>
-            <position>1</position>
+            <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-15 05:55:36</sys_created_on>
-            <sys_id>3042e8e9971131109b03bcb3f153af38</sys_id>
+            <sys_created_on>2023-09-19 06:59:59</sys_created_on>
+            <sys_id>8b57193a07913110b7bbf1d08c1ed005</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1112165_gcx_te_0_my_table" sys_domain="global" view="Default view">c98bcf6b970131109b03bcb3f153af94</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-15 05:55:36</sys_updated_on>
+            <sys_updated_on>2023-09-19 06:59:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-19 06:59:59</sys_created_on>
+            <sys_id>0357193a07913110b7bbf1d08c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1112165_gcx_te_0_my_table" sys_domain="global" view="Default view">c98bcf6b970131109b03bcb3f153af94</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-19 06:59:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
