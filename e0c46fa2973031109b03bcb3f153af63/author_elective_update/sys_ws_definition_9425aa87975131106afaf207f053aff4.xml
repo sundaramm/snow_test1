@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition">
+    <sys_ws_definition action="DELETE">
+        <active>true</active>
+        <base_uri>/api/x_1112165_gcx_te_0/customer_creation</base_uri>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_version>No active default version</default_version>
+        <doc_link/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <is_versioned>false</is_versioned>
+        <name>Customer Creation</name>
+        <namespace>x_1112165_gcx_te_0</namespace>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <service_id>customer_creation</service_id>
+        <short_description/>
+        <sys_class_name>sys_ws_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-20 07:18:46</sys_created_on>
+        <sys_id>9425aa87975131106afaf207f053aff4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Creation</sys_name>
+        <sys_package display_value="GCX Test App" source="x_1112165_gcx_te_0">e0c46fa2973031109b03bcb3f153af63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</sys_scope>
+        <sys_update_name>sys_ws_definition_9425aa87975131106afaf207f053aff4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-20 07:18:46</sys_updated_on>
+    </sys_ws_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</application>
+        <file_path/>
+        <instance_id>a6dd1c63db43ec10f37acac50596194b</instance_id>
+        <instance_name>dev108948</instance_name>
+        <name>sys_ws_definition_9425aa87975131106afaf207f053aff4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition"><sys_ws_definition action="INSERT_OR_UPDATE"><active>true</active><base_uri>/api/x_1112165_gcx_te_0/customer_creation</base_uri><consumes>application/json,application/xml,text/xml</consumes><consumes_customized>false</consumes_customized><default_version>No active default version</default_version><doc_link/><enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl><is_versioned>false</is_versioned><name>Customer Creation</name><namespace>x_1112165_gcx_te_0</namespace><produces>application/json,application/xml,text/xml</produces><produces_customized>false</produces_customized><service_id>customer_creation</service_id><short_description/><sys_class_name>sys_ws_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-20 07:18:46</sys_created_on><sys_id>9425aa87975131106afaf207f053aff4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Customer Creation</sys_name><sys_package display_value="GCX Test App" source="x_1112165_gcx_te_0">e0c46fa2973031109b03bcb3f153af63</sys_package><sys_policy/><sys_scope display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</sys_scope><sys_update_name>sys_ws_definition_9425aa87975131106afaf207f053aff4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-20 07:18:46</sys_updated_on></sys_ws_definition></record_update>]]></payload>
+        <payload_hash>1712235541</payload_hash>
+        <record_name>Customer Creation</record_name>
+        <reverted_from/>
+        <source>39506461971131106afaf207f053af5f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-20 07:18:46</sys_created_on>
+        <sys_id>b7352283979131106afaf207f053af4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ab174a5290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-20 07:18:46</sys_updated_on>
+        <type>Scripted REST API</type>
+        <update_guid>bf352283e491311019df8fc800351e4d</update_guid>
+        <update_guid_history>bf352283e491311019df8fc800351e4d:1712235541</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-20 07:19:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_definition">sys_ws_definition</sys_db_object>
+        <sys_id>06eacfc4dbbe4ecc873d5df05a429959</sys_id>
+        <sys_metadata>9425aa87975131106afaf207f053aff4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Creation</sys_name>
+        <sys_package display_value="GCX Test App" source="x_1112165_gcx_te_0">e0c46fa2973031109b03bcb3f153af63</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</sys_scope>
+        <sys_scope_delete display_value="">90b57a6c9a2a4c2aa9d1d2002b6c8724</sys_scope_delete>
+        <sys_update_name>sys_ws_definition_9425aa87975131106afaf207f053aff4</sys_update_name>
+        <sys_update_version display_value="sys_ws_definition_9425aa87975131106afaf207f053aff4">b7352283979131106afaf207f053af4e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-20 07:19:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
