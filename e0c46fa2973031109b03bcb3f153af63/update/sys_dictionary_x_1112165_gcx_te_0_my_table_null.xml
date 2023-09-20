@@ -3,7 +3,7 @@
         <active>true</active>
         <array>false</array>
         <attributes/>
-        <audit>false</audit>
+        <audit>true</audit>
         <calculation/>
         <choice>0</choice>
         <choice_field/>
@@ -52,8 +52,8 @@
         <sys_policy/>
         <sys_scope display_value="GCX Test App">e0c46fa2973031109b03bcb3f153af63</sys_scope>
         <sys_update_name>sys_dictionary_x_1112165_gcx_te_0_my_table_null</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-09-10 10:21:52</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-20 05:55:01</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
